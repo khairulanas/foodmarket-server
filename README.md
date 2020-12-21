@@ -60,3 +60,20 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+vscode extension
+
+  Laravel Blade Snippets
+  Laravel Blade Spacer
+  Laravel Model Snippet
+  Laravel Snippets
+  Laravel Extra Intellisense
+  Laravel goto view
+  laravel-goto-controller
+  PHP Docblocker
+  PHP Intelephense
+  PHP Namespace Resolver
+  PHP Awesome Snippets
+  PHPDoc Generator
+  DotENV
