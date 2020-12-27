@@ -41,4 +41,11 @@ class TransactionController extends Controller
             'data list transaksi berhasil diambil'
         );
     }
+
+    public function update(Request $request, $id)
+    {
+        $transaction = Transaction::findOrFail($id);
+        $transaction->update($request->all());
+        return ResponseFormatter::success($transaction, 'transaksi berhasil di update');
+    }
 }
